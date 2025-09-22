@@ -1,0 +1,11 @@
+/* src/assets/main.css */
+
+@font-face {
+  font-family: 'FiraGO'; /* This name must match the config file */
+  src: url('/fonts/FiraGO-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  font-family: 'FiraGo' !important;
+}
