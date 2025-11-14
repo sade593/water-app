@@ -22,5 +22,4 @@ const router = createRouter({
   ]
 })
 
-// THIS LINE IS THE FIX
 export default router
